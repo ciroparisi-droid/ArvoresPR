@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: pt-BR
-  baseUrl: arvoresdoparana.github.io
+  baseUrl: ciroparisi-droid.github.io/ArvoresPR
   ignorePatterns:
     - private
     - templates

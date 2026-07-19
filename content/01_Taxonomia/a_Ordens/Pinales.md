@@ -1,5 +1,0 @@
-# Pinales
-
-## Famílias
-- [[Araucariaceae]]
-- [[Podocarpaceae]]

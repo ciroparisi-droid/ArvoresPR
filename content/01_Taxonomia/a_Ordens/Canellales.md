@@ -1,5 +1,0 @@
-# Canellales
-
-## Famílias
-- [[Canellaceae]]
-- [[Winteraceae]]

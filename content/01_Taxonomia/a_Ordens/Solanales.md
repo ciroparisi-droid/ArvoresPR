@@ -1,4 +1,0 @@
-# Solanales
-
-## Famílias
-- [[Solanaceae]]

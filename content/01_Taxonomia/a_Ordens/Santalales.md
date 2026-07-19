@@ -1,5 +1,0 @@
-# Santalales
-
-## Famílias
-- [[Opiliaceae]]
-- [[Ximeniaceae]]

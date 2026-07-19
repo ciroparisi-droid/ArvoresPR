@@ -1,4 +1,0 @@
-# Asterales
-
-## Famílias
-- [[Asteraceae]]

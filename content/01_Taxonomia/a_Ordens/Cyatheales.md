@@ -1,5 +1,0 @@
-# Cyatheales
-
-## Famílias
-- [[Cyatheaceae]]
-- [[Dicksoniaceae]]

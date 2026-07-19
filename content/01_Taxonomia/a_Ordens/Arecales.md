@@ -1,4 +1,0 @@
-# Arecales
-
-## Famílias
-- [[Arecaceae]]

@@ -1,5 +1,0 @@
-# Fabales
-
-## Famílias
-- [[Fabaceae]]
-- [[Quillajaceae]]

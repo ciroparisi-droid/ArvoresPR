@@ -1,5 +1,0 @@
-# Proteales
-
-## Famílias
-- [[Proteaceae]]
-- [[Sabiaceae]]

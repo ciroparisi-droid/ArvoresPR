@@ -1,4 +1,0 @@
-# Piperales
-
-## Famílias
-- [[Piperaceae]]
