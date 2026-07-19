@@ -1,0 +1,5 @@
+# Gentianales
+
+## Famílias
+- [[Loganiaceae]]
+- [[Rubiaceae]]

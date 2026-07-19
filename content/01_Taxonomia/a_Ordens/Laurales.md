@@ -1,0 +1,5 @@
+# Laurales
+
+## Famílias
+- [[Lauraceae]]
+- [[Monimiaceae]]
